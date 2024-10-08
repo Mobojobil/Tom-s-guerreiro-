@@ -58,29 +58,34 @@
         <mxCell id="ElfAze5rHpPHdB7KU5Qr-13" value="Escrever: Numero impar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="320" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ElfAze5rHpPHdB7KU5Qr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-15" target="ElfAze5rHpPHdB7KU5Qr-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="540" y="320" />
-              <mxPoint x="540" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ElfAze5rHpPHdB7KU5Qr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-15" target="ElfAze5rHpPHdB7KU5Qr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-15" target="ElfAze5rHpPHdB7KU5Qr-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ElfAze5rHpPHdB7KU5Qr-15" value="NR==0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ElfAze5rHpPHdB7KU5Qr-19" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="630" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="680" y="140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ElfAze5rHpPHdB7KU5Qr-20" value="Verdadeiro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="288" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ElfAze5rHpPHdB7KU5Qr-22" value="Falso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="378" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-23" target="ElfAze5rHpPHdB7KU5Qr-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-23" value="Escrever: Digitou 0 - vai sair do preograma" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
