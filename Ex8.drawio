@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.17">
   <diagram name="Página-1" id="ZNse3tBdtCjMmyvKHJrZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1009" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-1" target="ElfAze5rHpPHdB7KU5Qr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-2" target="ElfAze5rHpPHdB7KU5Qr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-2" value="Ler NR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-3" target="ElfAze5rHpPHdB7KU5Qr-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-3" target="ElfAze5rHpPHdB7KU5Qr-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-3" value="NR%2==0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-7" value="Verdadeiro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-8" target="ElfAze5rHpPHdB7KU5Qr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="801" y="350" />
+              <mxPoint x="801" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-8" value="Escrever: Numero Par" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-12" value="Falso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-13" target="ElfAze5rHpPHdB7KU5Qr-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-13" value="Escrever: Numero impar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-15" target="ElfAze5rHpPHdB7KU5Qr-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="320" />
+              <mxPoint x="540" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElfAze5rHpPHdB7KU5Qr-15" target="ElfAze5rHpPHdB7KU5Qr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-15" value="NR==0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-19" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-20" value="Verdadeiro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="288" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfAze5rHpPHdB7KU5Qr-22" value="Falso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="378" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
