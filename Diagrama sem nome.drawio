@@ -10,7 +10,10 @@
         <mxCell id="FPkFMD_mEpgcOzCc-wzM-2" value="Ler P1, P2, P3, P4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQe3m40f6RcweIfARJ8S-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQe3m40f6RcweIfARJ8S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQe3m40f6RcweIfARJ8S-1" target="OQe3m40f6RcweIfARJ8S-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQe3m40f6RcweIfARJ8S-1" value="media=(P1+P2+P3+P4)/4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OQe3m40f6RcweIfARJ8S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQe3m40f6RcweIfARJ8S-2" target="FPkFMD_mEpgcOzCc-wzM-2">
@@ -18,6 +21,15 @@
         </mxCell>
         <mxCell id="OQe3m40f6RcweIfARJ8S-2" value="Ínicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OQe3m40f6RcweIfARJ8S-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQe3m40f6RcweIfARJ8S-5" target="OQe3m40f6RcweIfARJ8S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQe3m40f6RcweIfARJ8S-5" value="Escrever media" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQe3m40f6RcweIfARJ8S-7" value="fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="940" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
