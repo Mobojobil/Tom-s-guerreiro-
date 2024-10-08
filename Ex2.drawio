@@ -13,11 +13,11 @@
         <mxCell id="7dysvG6r1pBAgYWHEIjK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7dysvG6r1pBAgYWHEIjK-2" target="7dysvG6r1pBAgYWHEIjK-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7dysvG6r1pBAgYWHEIjK-2" value="Ler KM_inicial, KM_final, litros gastos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="7dysvG6r1pBAgYWHEIjK-2" value="Ler KM_inicial, KM_final, litros_gastos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="190" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7dysvG6r1pBAgYWHEIjK-3" value="Distancia = KM_final - KM_inicial&lt;div&gt;Consumo = (litros_gastos / distancia) * 100&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consumo de gasolina =&amp;nbsp; + consumo + &quot; litros/100 km&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248.75" y="280" width="302.5" height="60" as="geometry" />
+        <mxCell id="7dysvG6r1pBAgYWHEIjK-3" value="Distancia = KM_final - KM_inicial&lt;div&gt;Consumo = (litros_gastos / Distancia) * 100&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consumo de gasolina =&amp;nbsp; + Consumo +&amp;nbsp; litros_gastos/100 km&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224.38" y="280" width="351.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
